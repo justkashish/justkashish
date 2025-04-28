@@ -12,7 +12,7 @@ _A passionate full-stack developer based in India 🇮🇳, focused on building 
 
 ### 👨‍💻 My Projects
 All of my projects are available at:  
-➡️ [https://your-portfolio-link.com](https://your-portfolio-link.com)
+➡️ [Portfolio](https://justkashish.github.io/React-Portfolio/)
 
 ---
 
